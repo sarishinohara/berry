@@ -4,16 +4,16 @@
 #ifndef _CONFIG_H
 #define _CONFIG_H
 
-#define WORKSPACE_NUMBER 10
+#define WORKSPACE_NUMBER 8
 
 #define BORDER_WIDTH 3
 #define INTERNAL_BORDER_WIDTH 3
 #define TITLE_HEIGHT 0
 
-#define MOVE_STEP 40
-#define RESIZE_STEP 40
+#define MOVE_STEP 10
+#define RESIZE_STEP 10
 
-#define TOP_GAP 30
+#define TOP_GAP 5
 
 #define BORDER_UNFOCUS_COLOR 0x20292d
 #define BORDER_FOCUS_COLOR 0x20292d
@@ -22,7 +22,7 @@
 #define INNER_FOCUS_COLOR 0xac8d6e
 
 #define FOCUS_NEW true
-#define EDGE_LOCK true
+#define EDGE_LOCK false
 
 #define MINIMUM_DIM 30
 
