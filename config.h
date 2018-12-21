@@ -11,9 +11,9 @@
 #define TITLE_HEIGHT 0
 
 #define MOVE_STEP 10
-#define RESIZE_STEP 10
+#define RESIZE_STEP 3
 
-#define TOP_GAP 5
+#define TOP_GAP 0
 
 #define BORDER_UNFOCUS_COLOR 0x20292d
 #define BORDER_FOCUS_COLOR 0x20292d
